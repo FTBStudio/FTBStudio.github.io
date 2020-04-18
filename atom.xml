@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ftbstudio.github.io</id>
+    <title>FBT Studio</title>
+    <updated>2020-04-18T03:27:34.208Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ftbstudio.github.io"/>
+    <link rel="self" href="https://ftbstudio.github.io/atom.xml"/>
+    <subtitle>一个人的世界</subtitle>
+    <logo>https://ftbstudio.github.io/images/avatar.png</logo>
+    <icon>https://ftbstudio.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, FBT Studio</rights>
+    <entry>
+        <title type="html"><![CDATA[姐叫王一丁开发日志4.17]]></title>
+        <id>https://ftbstudio.github.io/post/EsRlwJuJo/</id>
+        <link href="https://ftbstudio.github.io/post/EsRlwJuJo/">
+        </link>
+        <updated>2020-04-17T02:43:18.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="本项目于4月16日立项使用ifraction开发">本项目于4月16日立项，使用IFraction开发</h1>
+<h2 id="最新版本号-1201">最新版本号 1.2.0.1</h2>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="本项目于4月16日立项使用ifraction开发">本项目于4月16日立项，使用IFraction开发</h1>
+<h2 id="最新版本号-1201">最新版本号 1.2.0.1</h2>
+<!-- more -->
+<h1 id="新增">新增</h1>
+<ol>
+<li>第一章郊外剧情</li>
+<li>城市地图</li>
+<li>抽奖系统</li>
+<li>监狱系统</li>
+<li>个别角色的配音</li>
+<li>医院地图</li>
+</ol>
+<h1 id="修复bug">修复Bug</h1>
+<ol>
+<li>在手机端不受手柄控制</li>
+<li>某些剧情会重复</li>
+<li>计时器的时间计算错误</li>
+</ol>
+<h1 id="即将更新">即将更新</h1>
+<ol>
+<li>第二章剧情</li>
+<li>增加适当剧情动画</li>
+<li>新增关卡、战斗系统</li>
+<li>新增装备、技能、物品栏</li>
+</ol>
+<h1 id="预计更新日期">预计更新日期</h1>
+<p>4.20</p>
+]]></content>
+    </entry>
+</feed>
